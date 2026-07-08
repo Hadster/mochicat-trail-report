@@ -327,7 +327,7 @@ export default function App() {
           <div style={{ position:"relative" }}>
             <div style={{ color:ACCENT, fontSize:11.5, letterSpacing:"0.3em", textTransform:"uppercase", marginBottom:8 }}>Training Log · 2026</div>
             <h1 style={{ margin:0, fontSize:34, fontWeight:800, letterSpacing:"-0.025em", lineHeight:1 }}>Trail Report</h1>
-            <p style={{ color:MUTED, margin:"9px 0 0", fontSize:13 }}>{LOG.length} sessions · Bridger Range, MT · stored on this device</p>
+            <p style={{ color:MUTED, margin:"9px 0 0", fontSize:13 }}>{LOG.length} sessions · stored on this device</p>
           </div>
         </header>
 

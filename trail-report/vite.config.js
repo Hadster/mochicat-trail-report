@@ -20,8 +20,8 @@ export default defineConfig({
         background_color: "#0C110D",
         display: "standalone",
         orientation: "portrait",
-        scope: "/trail-report/",
-        start_url: "/trail-report/",
+        scope: "/mochicat-trail-report/",
+        start_url: "/mochicat-trail-report/",
         icons: [
           { src: "icon-192.png", sizes: "192x192", type: "image/png" },
           { src: "icon-512.png", sizes: "512x512", type: "image/png" },
