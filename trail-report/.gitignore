@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+dist-ssr/
+
+# local env
+.env
+.env.local
+.DS_Store
+
+# personal data backups exported from the app — keep these OFF GitHub
+*.backup.json
+trail-report-backup-*.json
+
+# editor
+.vscode/
+.idea/
+*.log
